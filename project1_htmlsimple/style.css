@@ -1,27 +1,29 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
 }
 
 .top-nav {
   border: solid 1px black;
-  padding: 50px;
-  margin: 0 auto;
+  padding: 30px;
+  width: 98%;
   background-color: lightslategray;
+  overflow: hidden;
 }
 
 .top-links {
   text-decoration: none;
   float: right;
-  margin: 10px;
+  margin: 2px;
   border: solid 1px blue;
-  padding: 10px;
+  padding: 15px;
   background-color: pink;
   border-radius: 10px;
 }
 
 #main {
   background-color: lightgray;
-  margin: 0 100px;
+  margin: 5px 100px;
   padding: 40px;
 }
 
