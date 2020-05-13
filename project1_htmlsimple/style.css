@@ -23,7 +23,8 @@ body {
 
 #main {
   background-color: lightgray;
-  margin: 5px 100px;
+  margin: 0 auto;
+  width: 80%;
   padding: 40px;
 }
 
